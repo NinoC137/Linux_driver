@@ -1,0 +1,1 @@
+cmd_/home/ninobox/linux_driver/hello_driver/hello_driver.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ninobox/linux_driver/hello_driver/hello_driver.ko /home/ninobox/linux_driver/hello_driver/hello_driver.o /home/ninobox/linux_driver/hello_driver/hello_driver.mod.o;  true
