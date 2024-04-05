@@ -1,0 +1,1 @@
+cmd_/home/ninobox/linux_driver/hello_driverPlus/hello_driverPlus.mod := { echo  /home/ninobox/linux_driver/hello_driverPlus/hello_driverPlus.o;  echo; } > /home/ninobox/linux_driver/hello_driverPlus/hello_driverPlus.mod

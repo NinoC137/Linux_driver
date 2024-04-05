@@ -5,3 +5,4 @@
 
 
 - [x] 第一个linux驱动程序 hello driver
+- [x] 进阶的hello driver驱动与测试程序
